@@ -1,0 +1,819 @@
+<Dungeons>
+<dungeon id="0001" name="Remote Empyrean Vault" coords="81.7N, 71.2W" />
+<dungeon id="0002" name="Viamontian Garrison" coords="75.3N, 73.8W" />
+<dungeon id="0003" name="Niffis Fighting Pits" coords="Banderling Portal Gem" />
+<dungeon id="0004" name="Northern Power Forge" coords="18.4N, 22.8W" />
+<dungeon id="0005" name="Southern Power Forge" coords="82.3S, 3.9W" />
+<dungeon id="0006" name="Western Power Forge" coords="21.9S, 43.8W" />
+<dungeon id="0008" name="Defiled Temple Lower Wing" coords="77.6N, 32.8E" />
+<dungeon id="0009" name="Defiled Temple Upper Wing" coords="77.7N, 32.9E" />
+<dungeon id="000A" name="Defiled Temple Asylum" coords="77.8N, 32.8E" />
+<dungeon id="000B" name="Banderling Shrine" coords="72.8N, 6.8W" />
+<dungeon id="000C" name="Weakened Vault Sewers" coords="From Def. Lower Wing" />
+<dungeon id="000D" name="Secured Vault Sewers" coords="From Def. Middle Wing" />
+<dungeon id="000E" name="Reinforced Vault Sewers" coords="From Def. Upper Wing" />
+<dungeon id="000F" name="Fortified Vault Sewers" coords="From Defiled Temple Asylum" />
+<dungeon id="0010" name="War Room" coords="12.1S, 92.7W" />
+<dungeon id="0011" name="Weakened Royal Vault" coords="From Weak. Vaut Sewers" />
+<dungeon id="0012" name="Secured Royal Vault" coords="From Secured Vault Sewers" />
+<dungeon id="0013" name="Reinforced Royal Vault" coords="From Reinf. Vault Sewers" />
+<dungeon id="0014" name="Fortified Royal Vault" coords="From Vault Sewers" />
+<dungeon id="0015" name="Banished Assembly" coords="87S, 79.6W" />
+<dungeon id="0016" name="Ravaged Cathedral" coords="86.2S, 79W" />
+<dungeon id="0017" name="Vile Sanctuary" coords="86.7s, 78.2w" />
+<dungeon id="0018" name="Copper Legion Keep" coords="12.1N, 0.6E" />
+<dungeon id="0019" name="Gold Legion Keep" coords="13.8N, 2E" />
+<dungeon id="001A" name="Platinum Legion Keep" coords="16.5N, 0.6E" />
+<dungeon id="001B" name="Silver Legion Keep" coords="13.5N, 1.5W" />
+<dungeon id="001C" name="Lugian Ice Tunnels" coords="93.3N, 50.1W" />
+<dungeon id="001D" name="Ruschk Icehold" coords="87.3N, 51.9W" />
+<dungeon id="001E" name="Viamontian Royal Prison" coords="91.9N, 41.6W" />
+<dungeon id="001F" name="Eater Pit" coords="88.8N, 72.6W" />
+<dungeon id="0020" name="Heart of Madness" coords="84.8N, 68.6W" />
+<dungeon id="0021" name="Hall of Karlun" coords="88.8N, 67.8W" />
+<dungeon id="0022" name="Cannibal Caverns" coords="88N, 58.5W" />
+<dungeon id="0023" name="Sezzherei's Lair" coords="Portal Gem" />
+<dungeon id="0029" name="Thrungus Hole" coords="94.2N, 43W" />
+<dungeon id="002A" name="Path of the Blind" coords="91.1N, 48W" />
+<dungeon id="002B" name="Egg Orchard" coords="96.2N, 48.1W" />
+<dungeon id="002C" name="Forgotten Chasm" coords="94.5N, 39.1W" />
+<dungeon id="002D" name="Dark Design" coords="93.8N, 44.9W" />
+<dungeon id="002E" name="Feeding Tubes" coords="96.7N, 42.4W" />
+<dungeon id="002F" name="Tursh Dungeon" coords="92.4N, 47.5W" />
+<dungeon id="0030" name="Renegade Incursion" coords="0.5N, 73.3W" />
+<dungeon id="0031" name="Creepy Canyons" coords="4.6N, 89.5W" />
+<dungeon id="0033" name="Coral Caves" coords="90.5N, 42.5W" />
+<dungeon id="0034" name="The Fazenda caves" coords="49.8N, 7.7E" />
+<dungeon id="0035" name="Lost Coastal Archive" coords="37.4N, 67E" />
+<dungeon id="0036" name="Lost Desert Archive" coords="4N, 2.4W" />
+<dungeon id="0037" name="Frozen Cenotaph" coords="90.6N, 66.7W" />
+<dungeon id="0038" name="Font of the Eternal Harvester" coords="42.7S, 46.6W" />
+<dungeon id="0039" name="Hagra's Holdfast" coords="48.2N, 88.5W" />
+<dungeon id="003A" name="Gateway to the Deep: Part 1 (West)" coords="87.3N, 41.6E" />
+<dungeon id="003B" name="Gateway to the Deep: Part 2" coords="87.6S, 4.4W" />
+<dungeon id="003C" name="Fake Subway Viss Flagging" coords="94.1S, 77.9w" />
+<dungeon id="003D" name="Gateway to the Deep: Part 1 (East)" coords="87.3N, 51.2E" />
+<dungeon id="003E" name="Breached Hive" coords="49.8N, 73.1W" />
+<dungeon id="0040" name="Master Alizari's Dig" coords="19.4N, 43.3W" />
+<dungeon id="0041" name="Mistress Halmera's Dig" coords="8.6N, 58.6W" />
+<dungeon id="0043" name="Master Vaserio's Dig" coords="54.2S, 78.6W" />
+<dungeon id="0044" name="Collegium Occultus" coords="From Seat of Knorr" />
+<dungeon id="0045" name="Temple of the Stirring Shadows" coords="74.3N, 58.7E" />
+<dungeon id="0046" name="Yanshi Undermine" coords="11.8S, 39E" />
+<dungeon id="0047" name="Repository" coords="89.3S, 93.5W" />
+<dungeon id="0048" name="Viamontian Esper Mine" coords="72.2N, 3E" />
+<dungeon id="0049" name="Camp Entemarre" coords="62.7S, 82.5W" />
+<dungeon id="004A" name="Creepy Chambers" coords="80S, 60W" />
+<dungeon id="004B" name="Path of the Blind West" coords="91.1N, 48W" />
+<dungeon id="004D" name="Eastern Temple Catacombs" coords="80N, 54.6E" />
+<dungeon id="004E" name="Northern Temple Catacombs" coords="80.2N, 54.4E" />
+<dungeon id="0052" name="Silyun Chapterhouse" coords="85.4N, 70.4W" />
+<dungeon id="0053" name="Shade Iron Mine" coords="65S, 87.6W" />
+<dungeon id="0055" name="Back Tunnels" coords="From Rebel Hideout" />
+<dungeon id="0056" name="Augmentation Realm Main Level" coords="From lower lvl" />
+<dungeon id="0058" name="Viamont Staging Portal (Low)" coords="32.3N, 29.5E" />
+<dungeon id="0059" name="Viamont Staging Portal (Mid)" coords="31.4N, 25.8E" />
+<dungeon id="005A" name="Viamont Staging Portal (High)" coords="27.2N, 27.9E" />
+<dungeon id="005B" name="Ulgrim's Bookcase" coords="41.9S, 16.1E" />
+<dungeon id="005C" name="Ulgrim's Mysterious Hatch" coords="94.1S, 11.2W" />
+<dungeon id="0062" name="Statue Torgluuk Told You About" coords="One of the statues behind the rock on Bur" />
+<dungeon id="0064" name="Egg Orchard East" coords="96.2N, 48.1W" />
+<dungeon id="0065" name="Thrungal Den" coords="79.4N, 71.6W" />
+<dungeon id="0068" name="Viamontian Laboratory" coords="39.4N, 75.3W" />
+<dungeon id="006D" name="Augmentation Realm Higher Level" coords="95N, 47.1W" />
+<dungeon id="006E" name="Empyrean Workshop" coords="66.9N, 15.9E" />
+<dungeon id="006F" name="Atlan's Laboratory" coords="From E. Workshop" />
+<dungeon id="007D" name="Augmentation Realm Lower Level" coords="95N, 47.1W" />
+<dungeon id="007E" name="Black Spear Temple" coords="68.4S, 66.1W" />
+<dungeon id="007F" name="Dartante's Workshop : Main" coords="70.1N, 62.5W" />
+<dungeon id="0080" name="Rossu Morta Chapterhouse" coords="69.7N, 62.3W" />
+<dungeon id="0081" name="Whispering Blade Chapterhouse" coords="59.9S, 87.2W" />
+<dungeon id="0082" name="Assassin's Hideout" coords="54.5S, 80.8W" />
+<dungeon id="0083" name="Pheraion's Sanctum" coords="59.8S, 75.1W" />
+<dungeon id="0084" name="Black Spear Summoning Chamber" coords="75.8N, 70.5E" />
+<dungeon id="0085" name="Altar Nest" coords="75.9N, 69.3E" />
+<dungeon id="0089" name="Cells of the Black Book" coords="10.3S, 50.3E" />
+<dungeon id="008A" name="Dark Monolith caverns" coords="Portal Gem" />
+<dungeon id="008B" name="Ancient Masonry" coords="88.1N, 47.6E" />
+<dungeon id="008E" name="Grael's Generals : Eastham" coords="18N, 62.6E" />
+<dungeon id="008F" name="Grael's Generals : Tou-Tou" coords="26.1S, 98E" />
+<dungeon id="0090" name="Grael's Generals : Sawato" coords="29.5S, 59.2E" />
+<dungeon id="0091" name="Grael's Generals : Khayyaban" coords="48.8S, 25.2E" />
+<dungeon id="0092" name="Grael's Generals : Tufa" coords="13.8S, 3.9E" />
+<dungeon id="0093" name="Grael's Generals : Arwic" coords="34N, 56.5E" />
+<dungeon id="0094" name="Grael's Generals : Eastwatch" coords="93.5N, 44.7W" />
+<dungeon id="0096" name="Insatiable Vault" coords="97.4N, 48W" />
+<dungeon id="0097" name="Son of Pooky's Den" coords="Portal Gem" />
+<dungeon id="009C" name="Bur" coords="67.4n, 30.5e" />
+<dungeon id="009F" name="Shadow Kresovius Dungeon" coords="77.6s, 28.0e" />
+<dungeon id="00A5" name="Lonely Fortress" coords="56.7s  88.4w" />
+<dungeon id="00A6" name="Invitation Battle Burrows" coords="Portal Gem" />
+<dungeon id="00A7" name="Sanctuary Quiddity Seed" coords="82.4S, 93.1E" />
+<dungeon id="00A8" name="Roots of the Deru Tree" coords="90.4S, 87.3E" />
+<dungeon id="00AE" name="Messenger's Sanctuary" coords="One of the statues behind the rock on Bur" />
+<dungeon id="00C8" name="Egg Orchard West" coords="96.2N, 48.1W" />
+<dungeon id="00CF" name="The Dark Spiral" coords="15.9N, 68.7W" />
+<dungeon id="00D2" name="Bur Northern Catacombs" coords="Bur" />
+<dungeon id="00D3" name="Bur Eastern Catacombs" coords="Bur" />
+<dungeon id="00D4" name="Bur Southern Catacombs" coords="Bur" />
+<dungeon id="00D8" name="Sentinel's Head Outside Mage Academy" coords="74.7n, 18.5e" />
+<dungeon id="00D9" name="Blightfinger's Warrens" coords="53.63S, 88.34W" />
+<dungeon id="00E1" name="Path of the Blind East" coords="91.1N, 48W" />
+<dungeon id="00E2" name="Ruschk Burial Mound" coords="91.5N, 68.8W" />
+<dungeon id="00E3" name="Sclavus Umbral Forge" coords="31.5N, 50.6W" />
+<dungeon id="00E5" name="Temple of The One Bur" coords="Bur Southern Catacombs" />
+<dungeon id="00EA" name="Ancient Mhoire Armory" coords="64.1S, 44.4W" />
+<dungeon id="00F0" name="Temple of Xik Minru" coords="73.3N, 69.5E" />
+<dungeon id="00F1" name="Nightmare Gate" coords="89.7S, 93.3W" />
+<dungeon id="00F2" name="King 6 Browerk - Part 2" coords="91.4S, 89.5E" />
+<dungeon id="00F3" name="King 6 Browerk - Part 6  7" coords="From K6P5" />
+<dungeon id="00F4" name="King 5 Rehir - Part 4" coords="From K5P3" />
+<dungeon id="00F5" name="King 1 Reeshan - Part 4" coords="From K1P3" />
+<dungeon id="00F6" name="King 2 Kiree - Part 4" coords="From K2P3" />
+<dungeon id="00F7" name="King 4 Keerik - Part 4" coords="From K4P3" />
+<dungeon id="00F8" name="King 3 Broodu - Part 4" coords="From K3P3" />
+<dungeon id="00F9" name="King 6 Browerk - Part 3" coords="42.4S, 91.1W" />
+<dungeon id="00FA" name="King 5 Rehir - Part 1" coords="38.1S, 47.3W" />
+<dungeon id="00FB" name="King 1 Reeshan - Part 1" coords="12.8S, 58.9W" />
+<dungeon id="00FC" name="King 2 Kiree - Part 1" coords="21.7S, 47.6E" />
+<dungeon id="00FD" name="King 4 Keerik - Part 1" coords="51.4S, 67.9W" />
+<dungeon id="00FE" name="King 3 Broodu - Part 1" coords="40.8S, 11.7E" />
+<dungeon id="0100" name="Murk Warrens" coords="43.2S, 67.1E" />
+<dungeon id="0101" name="Murk Warrens" coords="26.3N, 1.9E" />
+<dungeon id="0102" name="Murk Warrens" coords="67.4N, 29.4W" />
+<dungeon id="0103" name="Black Spawn Den" coords="60S, 57.7W" />
+<dungeon id="0104" name="Black Spawn Den" coords="56.7S, 86W" />
+<dungeon id="0105" name="Black Spawn Den" coords="13.6N, 79.8W" />
+<dungeon id="0106" name="Setab's Barracks" coords="2.8N, 53.5E" />
+<dungeon id="0107" name="Nor's Folly" coords="32.5S, 11.9E" />
+<dungeon id="0108" name="Cursed Swamp" coords="27.3S, 69E" />
+<dungeon id="0109" name="Dungeon of Corpses" coords="56.1S, 49.6W" />
+<dungeon id="010A" name="Black Dominion" coords="49S, 66.3W" />
+<dungeon id="010B" name="Asuger Temple" coords="45.1N, 30.3E" />
+<dungeon id="010C" name="Mysterious Tunnels" coords="52.9S, 82.9E" />
+<dungeon id="010D" name="Contemplation Tower" coords="" />
+<dungeon id="010E" name="Contemplation Tower" coords="" />
+<dungeon id="010F" name="Contemplation Tower" coords="" />
+<dungeon id="0110" name="Nexus" coords="40.1S, 79.2W" />
+<dungeon id="0111" name="Sentinal Storage Dungeon" coords="" />
+<dungeon id="0112" name="Lyceum Training Grounds" coords="From Lyceum" />
+<dungeon id="0113" name="Amiantos Bethel" coords="16.3S, 35.1E" />
+<dungeon id="0114" name="Sultry Hovel" coords="74N, 61.5W" />
+<dungeon id="0115" name="Wedding Hall" coords="Portal Gem" />
+<dungeon id="0116" name="Tenkardunn Foundry" coords="88.9N, 42.7E" />
+<dungeon id="0117" name="Serac Vault" coords="75.9S, 29E" />
+<dungeon id="0118" name="Drudge Hovel" coords="23.7S, 0.2W" />
+<dungeon id="0119" name="Amperehelion Vault" coords="56.5S, 72.8W" />
+<dungeon id="011A" name="Incunabula Vault" coords="35.9S, 47.3W" />
+<dungeon id="011B" name="Jahannan Vault" coords="66.9N, 15E" />
+<dungeon id="011C" name="Mountain Fortress" coords="82.4S, 19.9E" />
+<dungeon id="011D" name="Al-Arqas Meeting Hall" coords="" />
+<dungeon id="011E" name="Al-Jalima Meeting Hall" coords="" />
+<dungeon id="011F" name="Arwic Meeting Hall" coords="" />
+<dungeon id="0120" name="Baishi Meeting Hall" coords="" />
+<dungeon id="0121" name="Cragstone Meeting Hall" coords="" />
+<dungeon id="0122" name="Eastham Meeting Hall" coords="" />
+<dungeon id="0123" name="Glenden Wood Meeting Hall" coords="" />
+<dungeon id="0124" name="Hebian-to Meeting Hall" coords="" />
+<dungeon id="0125" name="Holtburg Meeting Hall" coords="" />
+<dungeon id="0126" name="Khayaban Meeting Hall" coords="" />
+<dungeon id="0127" name="Lin Meeting Hall" coords="" />
+<dungeon id="0128" name="Lythelthorpe Meeting Hall" coords="" />
+<dungeon id="0129" name="Mayoi Meeting Hall" coords="" />
+<dungeon id="012A" name="Nanto Meeting Hall" coords="" />
+<dungeon id="012B" name="Qalaba'r Meeting Hall" coords="" />
+<dungeon id="012C" name="Rithwic Meeting Hall" coords="" />
+<dungeon id="012D" name="Samsur Meeting Hall" coords="" />
+<dungeon id="012E" name="Sawato Meeting Hall" coords="" />
+<dungeon id="012F" name="Shoushi Meeting Hall" coords="" />
+<dungeon id="0130" name="Tou-Tou Meeting Hall" coords="" />
+<dungeon id="0131" name="Tufa Meeting Hall" coords="" />
+<dungeon id="0132" name="Uziz Meeting Hall" coords="" />
+<dungeon id="0133" name="Yanshi Meeting Hall" coords="" />
+<dungeon id="0134" name="Yaraq Meeting Hall" coords="" />
+<dungeon id="0135" name="Zaikhal Meeting Hall" coords="" />
+<dungeon id="0136" name="Empyrean Foundry" coords="25.1S, 54.1E" />
+<dungeon id="0137" name="Artifex Vault" coords="26.5N, 45.8W" />
+<dungeon id="0138" name="Lost City of Frore" coords="From Mountain Cavern" />
+<dungeon id="0139" name="Mage Academy" coords="74.7N, 18.5E" />
+<dungeon id="013B" name="Folthid Cellar" coords="8.6S, 52.9E" />
+<dungeon id="013C" name="Underground Forest" coords="31.5N, 20.8E" />
+<dungeon id="013D" name="Forbidden Crypt" coords="6.6N, 3E" />
+<dungeon id="013E" name="Burial Temple" coords="8.5N, 5.9E" />
+<dungeon id="013F" name="Saadia's Retreat" coords="53.6S, 76.6E" />
+<dungeon id="0140" name="Virindi Fort" coords="61.6S, 54.1W" />
+<dungeon id="0141" name="Enkindled Souls" coords="49.4S, 26.9E" />
+<dungeon id="0142" name="Recovered Temple" coords="6.5N, 1.7W" />
+<dungeon id="0143" name="Phyntos Menace" coords="68.1N, 20.1W" />
+<dungeon id="0144" name="Darkened Halls" coords="20.7S, 0.7E" />
+<dungeon id="0145" name="Bone Lair" coords="29.5S, 6.9E" />
+<dungeon id="0146" name="Mount Lethe Magma Tubes" coords="33.9S, 85.2W" />
+<dungeon id="0147" name="Mount Naipenset Caverns" coords="5.6N, 56.2W" />
+<dungeon id="0148" name="A Small Ruin" coords="53.6S, 70.9E" />
+<dungeon id="0149" name="Thieves' Galleries" coords="57.6S, 74.1E" />
+<dungeon id="014A" name="Mysterious Cave" coords="7.7N, 6.6E" />
+<dungeon id="014B" name="Winthura's Garden" coords="43.2S, 24.7E" />
+<dungeon id="014C" name="Nevius Passage" coords="45.6S, 21.7E" />
+<dungeon id="014D" name="Damp Caverns" coords="31.8S, 96E" />
+<dungeon id="014E" name="Smuggler's Hideaway" coords="29.5S, 91.4E" />
+<dungeon id="014F" name="Dungeon Maggreth" coords="3.7N, 52.6E" />
+<dungeon id="0150" name="Filo's Doom" coords="12N, 62.2E" />
+<dungeon id="0151" name="Forgotten Temple" coords="0.9N, 55.7E" />
+<dungeon id="0152" name="Ruined Cave Outpost" coords="2.4N, 48.3E" />
+<dungeon id="0153" name="Shreth Hive" coords="32.4S, 71E" />
+<dungeon id="0154" name="Stone Cathedral" coords="34.7S, 71.2E" />
+<dungeon id="0155" name="Musansayn's Vault" coords="1S, 18.7E" />
+<dungeon id="0156" name="Sea Temple Catacombs" coords="20.2S, 4.4W" />
+<dungeon id="0157" name="Under-Cove Crypt" coords="24.5S, 4.1W" />
+<dungeon id="0158" name="Lytaway Dungeon" coords="52.6S, 86.7E" />
+<dungeon id="0159" name="Abandoned Shops" coords="32.3S, 12.7E" />
+<dungeon id="015A" name="Dry Well" coords="5S, 20.9E" />
+<dungeon id="015B" name="Unfinished Temple" coords="30.1S, 9.1E" />
+<dungeon id="015C" name="Nanto Rat Lair" coords="54.1S, 79.5E" />
+<dungeon id="015D" name="Mountain Cavern" coords="63.2N, 05.5E" />
+<dungeon id="015E" name="Impious Temple" coords="12.2N, 2.4E" />
+<dungeon id="015F" name="Dericost Ruin" coords="74.2N, 74.2W" />
+<dungeon id="0160" name="King 1 Reeshan - Part 2" coords="From K1P1" />
+<dungeon id="0161" name="Empyrean Garrison" coords="54.2S, 81.8E" />
+<dungeon id="0162" name="Cave of Alabree" coords="41.8N, 32E" />
+<dungeon id="0163" name="Holtburg Redoubt" coords="40.4N, 34.5E" />
+<dungeon id="0164" name="Lost Distillery" coords="0.6S, 51.2E" />
+<dungeon id="0165" name="Old Warehouse" coords="8.7N, 58.1E" />
+<dungeon id="0166" name="Deserted Ruin" coords="16S, 47.2E" />
+<dungeon id="0167" name="Desert Ruin" coords="31.8S, 15.8E" />
+<dungeon id="0168" name="Water Temple" coords="52.1S, 80.3E" />
+<dungeon id="0169" name="Mattekar Cave" coords="65.5N, 16.6E" />
+<dungeon id="016A" name="King 1 Reeshan - Part 3" coords="From K1P2" />
+<dungeon id="016B" name="King 2 Kiree - Part 3" coords="From K2P2" />
+<dungeon id="016D" name="Blackmire 5, Dungeon 1: Entrance" coords="12.8S, 58.9W" />
+<dungeon id="016F" name="Tutorial Dungeon (N Yaraq)" coords="" />
+<dungeon id="0170" name="Blackmire 5, Dungeon 2: Izji Qo's Test" coords="From BM5D1" />
+<dungeon id="0171" name="Tutorial Dungeon (S Yanshi)" coords="" />
+<dungeon id="0172" name="Tutorial Dungeon (N Yanshi)" coords="" />
+<dungeon id="0173" name="Blackmire 5, Dungeon 3: Izji Qo's Defenders" coords="From BM5D2" />
+<dungeon id="0174" name="Tutorial Dungeon (W Shoushi)" coords="" />
+<dungeon id="0175" name="Tutorial Dungeon (NW Samsur)" coords="" />
+<dungeon id="0176" name="Tutorial Dungeon (E Samsur)" coords="" />
+<dungeon id="0177" name="Mossy Cave" coords="14.2S, 46E" />
+<dungeon id="0178" name="Dark Mosswart Halls" coords="74.2S, 83.6E" />
+<dungeon id="0179" name="Tutorial Dungeon (N Nanto)" coords="" />
+<dungeon id="017A" name="Banderling Hovel" coords="32S, 72.8E" />
+<dungeon id="017B" name="Watery Grotto" coords="23.8S, 47.2E" />
+<dungeon id="017C" name="King Toad Idol" coords="39.3S, 51.1W" />
+<dungeon id="017D" name="Tutorial Dungeon (W Holtburg)" coords="" />
+<dungeon id="017E" name="Tutorial Dungeon (S Holtburg)" coords="" />
+<dungeon id="017F" name="Tutorial Dungeon (N Al-Arqas)" coords="" />
+<dungeon id="0180" name="Tutorial Dungeon (W Al-Arqas)" coords="" />
+<dungeon id="0181" name="Dungeon Nye" coords="6.2N, 34.4E" />
+<dungeon id="0182" name="Desert Mine" coords="4.6S, 26.6E" />
+<dungeon id="0183" name="Dungeon Binar" coords="6.2S, 20.1E" />
+<dungeon id="0184" name="Dungeon Mei" coords="36.9S, 70.3E" />
+<dungeon id="0185" name="Daiklos Dungeon" coords="33.8N, 29.2E" />
+<dungeon id="0186" name="Sclavus Keep" coords="38.9S, 48.4W" />
+<dungeon id="0187" name="A Ruin (Arwic)" coords="33N, 54.9E" />
+<dungeon id="0188" name="Mines of Despair" coords="75.4S, 57.3E" />
+<dungeon id="0189" name="Grievous Vault" coords="25.8S, 27.3E" />
+<dungeon id="018B" name="A Cave" coords="24.2N, 43.2E" />
+<dungeon id="018C" name="Crater Lair" coords="70.6N, 12.7E" />
+<dungeon id="018D" name="Olthoi Tunnels" coords="48.1N, 53E" />
+<dungeon id="018E" name="Abayar's Laboratory" coords="92.1N, 46.3W" />
+<dungeon id="018F" name="Carved Cave" coords="7.4N, 0.6E" />
+<dungeon id="0190" name="Old Mine" coords="79.2S, 27E" />
+<dungeon id="0191" name="Mountain Sewer" coords="29.8S, 93.9E" />
+<dungeon id="0192" name="Mountain Halls" coords="10.2N, 56.7W" />
+<dungeon id="0193" name="Knath Lair" coords="49.8S, 56.3W" />
+<dungeon id="0194" name="Ruined Empyrean Vault" coords="85.9N, 59W" />
+<dungeon id="0195" name="Xi Ru's Chapel" coords="90.6S, 87.5E" />
+<dungeon id="0196" name="Xi Ru's Crypt" coords="From Xi Ru's Chapel" />
+<dungeon id="0197" name="Marauder's Lair" coords="83.9N, 66.4W" />
+<dungeon id="0198" name="King 6 Browerk - Part 1A" coords="91.2S, 89.6E" />
+<dungeon id="0199" name="Abayar's Study" coords="From Abayar's Laboratory" />
+<dungeon id="019A" name="Crater Caves Dungeon" coords="66.7N, 12.5E" />
+<dungeon id="019B" name="Lightless Catacombs" coords="82S, 35.2W" />
+<dungeon id="019C" name="Swamp Temple" coords="37.6S, 46.1W" />
+<dungeon id="019D" name="Simple Tower" coords="17.4N, 62.5E" />
+<dungeon id="019E" name="Drudge Hideout" coords="41.4N, 33.3E" />
+<dungeon id="019F" name="Tumerok Post" coords="12.2N, 68.1W" />
+<dungeon id="01A0" name="Tumerok Dungeon" coords="9.6S, 62.9W" />
+<dungeon id="01A1" name="Tumerok Base" coords="9N, 65.7W" />
+<dungeon id="01A2" name="Swamp Temple" coords="23.4S, 47.9E" />
+<dungeon id="01A3" name="The Pit" coords="64.3N, 23.4W" />
+<dungeon id="01A4" name="Mite Tunnels" coords="38.6N, 50.1E" />
+<dungeon id="01A5" name="Inner Dungeon" coords="43.5N, 43.4W" />
+<dungeon id="01A6" name="Disaster Maze" coords="61.3S, 51W" />
+<dungeon id="01A7" name="Crater Pathway" coords="60.5N, 15.7E" />
+<dungeon id="01A8" name="Abandoned Arena" coords="11.3S, 37.4E" />
+<dungeon id="01A9" name="Ancient Lighthouse" coords="4N, 73.6W" />
+<dungeon id="01AA" name="Lair of Death" coords="42N, 58.1E" />
+<dungeon id="01AB" name="Forking Trail" coords="65.6S, 16.7E" />
+<dungeon id="01AC" name="Adventurer's Haven" coords="" />
+<dungeon id="01AD" name="Dungeon Gallery Tower" coords="10.7N, 56.8E" />
+<dungeon id="01AE" name="Colier Mine" coords="56.7N, 38.5E" />
+<dungeon id="01AF" name="Lakeside Lair" coords="18.9N, 48.5E" />
+<dungeon id="01B0" name="Seaside Lair" coords="17.7N, 65.8E" />
+<dungeon id="01B1" name="Lost Garden Ruins" coords="65.8S, 59.3E" />
+<dungeon id="01B2" name="Web Maze" coords="49.4S, 65.3E" />
+<dungeon id="01B3" name="Dungeon Fern" coords="43.3N, 37.2E" />
+<dungeon id="01B4" name="Golem Burial Ground" coords="50.9S, 67.3E" />
+<dungeon id="01B5" name="Rocky Crypt" coords="50.9S, 69.3E" />
+<dungeon id="01B6" name="Dungeon Muddy" coords="27.4S, 71E" />
+<dungeon id="01B7" name="Braid Mansion Ruin" coords="34.2S, 72E" />
+<dungeon id="01B8" name="A Ruin (Rithwic)" coords="11.5N, 55E" />
+<dungeon id="01B9" name="A Ruin (Samsur)" coords="3.3S, 20.5E" />
+<dungeon id="01BA" name="Dungeon of Tatters" coords="62.2S, 40.1E" />
+<dungeon id="01BB" name="Thief Trail" coords="39.7S, 81.7E" />
+<dungeon id="01BC" name="Tumerok Chamber" coords="81.6S, 36.6W" />
+<dungeon id="01BD" name="Cave" coords="47.8S, 83.6W" />
+<dungeon id="01BE" name="Tumerok Fortress" coords="12.3N, 73.7W" />
+<dungeon id="01BF" name="Tumerok Outpost" coords="23.7N, 36.5W" />
+<dungeon id="01C0" name="Small Complex" coords="39.1S, 53.4W" />
+<dungeon id="01C1" name="Tumerok Mine" coords="7.9N, 61.3W" />
+<dungeon id="01C2" name="Underground Passage" coords="41.6N, 34.2E" />
+<dungeon id="01C3" name="Trialos" coords="58.7S, 55.3E" />
+<dungeon id="01C4" name="Thasali" coords="29.4S, 24.6E" />
+<dungeon id="01C5" name="Swamp Ruin" coords="25.1S, 52.1E" />
+<dungeon id="01C6" name="Hunter's Leap Dungeon" coords="35.7N, 32.6E" />
+<dungeon id="01C7" name="Lugian Outpost" coords="80.6S, 18.1E" />
+<dungeon id="01C8" name="Lugian Post" coords="71.2S, 19E" />
+<dungeon id="01C9" name="Abandoned Mine" coords="34.9N, 54.5E" />
+<dungeon id="01CA" name="Hebian-to Sewers" coords="38.8S, 83.8E" />
+<dungeon id="01CB" name="Penguin Cave Hatchery" coords="94.2N, 51.7W" />
+<dungeon id="01CC" name="Halls of the Helm" coords="18.7N, 1.5E" />
+<dungeon id="01CD" name="Rithwic Crypt" coords="14N, 59.1E" />
+<dungeon id="01CE" name="Hall of Lost Light" coords="76.5S, 74.9W" />
+<dungeon id="01CF" name="Eastham Sewers" coords="18.7N, 63.5E" />
+<dungeon id="01D0" name="Yanshi Tunnel" coords="12.1S, 45.6E" />
+<dungeon id="01D1" name="King 6 Browerk - Part 1C" coords="91.5S, 89.7E" />
+<dungeon id="01D2" name="Mountain Keep" coords="54.7N, 32.9E" />
+<dungeon id="01D3" name="Zabool Tower Base" coords="21.7N, 19.4E" />
+<dungeon id="01D4" name="Bellig Tower Base" coords="17.8N, 16E" />
+<dungeon id="01D5" name="Syliph Tower" coords="12.3N, 11.5E" />
+<dungeon id="01D6" name="Alfreth Dungeon" coords="20.4N, 13.2E" />
+<dungeon id="01D7" name="Sylsfear Dungeon" coords="11.1N, 14.7E" />
+<dungeon id="01D8" name="A Drudge Nest" coords="11N, 57.5E" />
+<dungeon id="01D9" name="A Red Rat Lair" coords="21.1S, 2.1W" />
+<dungeon id="01DA" name="A Ruin (Yanshi)" coords="13S, 47.3E" />
+<dungeon id="01DB" name="Moss Chamber" coords="14.1N, 0.7W" />
+<dungeon id="01DC" name="A Drudge Nest" coords="40.6S, 83.6E" />
+<dungeon id="01DD" name="A Rat Nest" coords="40.3N, 32.5E" />
+<dungeon id="01DE" name="A Ruin (Mayoi)" coords="62.6S, 81.4E" />
+<dungeon id="01DF" name="A Mosswart Nest" coords="36.2S, 62E" />
+<dungeon id="01E0" name="Banderling Ruin" coords="36.1N, 39.5E" />
+<dungeon id="01E1" name="Thieve's Den" coords="17.7N, 65E" />
+<dungeon id="01E2" name="Bandit Castle Prison" coords="66.5N, 49.9E" />
+<dungeon id="01E3" name="Glenden Wood Dungeon" coords="29.9N, 26.3E" />
+<dungeon id="01E4" name="North Glenden Prison" coords="31.8N, 25.5E" />
+<dungeon id="01E5" name="Green Mire Grave" coords="27.9S, 71.6E" />
+<dungeon id="01E6" name="Small Icecave" coords="67.5N, 50.4E" />
+<dungeon id="01E7" name="A Small Cave" coords="4.2S, 17.3E" />
+<dungeon id="01E8" name="Dungeon Manor" coords="1.9S, 19.8E" />
+<dungeon id="01E9" name="Underground City" coords="21.3N, 53.9E" />
+<dungeon id="01EA" name="Old Talisman Dungeon" coords="2.3S, 85.7W" />
+<dungeon id="01EB" name="Lola's Den" coords="91.9N, 69.7W" />
+<dungeon id="01EC" name="Defiled Temple Middle Wing" coords="77.7N, 32.7E" />
+<dungeon id="01ED" name="Dungeon of Shadows" coords="21.4N, 44E" />
+<dungeon id="01EE" name="Black Death Catacombs (old ID)" coords="59.9N, 71.2E" />
+<dungeon id="01EF" name="Arwic Mines" coords="33.8N, 56.8E" />
+<dungeon id="01F0" name="King 4 Keerik - Part 3" coords="From K4P2" />
+<dungeon id="01F1" name="Cave" coords="18.4N, 62.1E" />
+<dungeon id="01F2" name="King 5 Rehir - Part 3" coords="From K5P2" />
+<dungeon id="01F3" name="Tomb of the Dead" coords="18.3S, 9.3E" />
+<dungeon id="01F4" name="Lyceum Training Grounds" coords="From Lyceum" />
+<dungeon id="01F5" name="Aerfalle Keep" coords="86.4N, 45.5E" />
+<dungeon id="01F6" name="Holtburg Dungeon" coords="43.5N, 32.9E" />
+<dungeon id="01F7" name="Shoushi Grotto" coords="34.5S, 72.8E" />
+<dungeon id="01F8" name="Mite Maze" coords="41.1N, 57.3E" />
+<dungeon id="01F9" name="Accursed Halls" coords="24S, 57.9W" />
+<dungeon id="01FA" name="Crypt of Ashen Tears" coords="14.6N, 3.5E" />
+<dungeon id="01FB" name="Yaraq Tunnels" coords="24.6S, 1.4W" />
+<dungeon id="01FC" name="ReedShark Lair" coords="12.2S, 48.3E" />
+<dungeon id="01FD" name="Trothyr's Rest" coords="10.3N, 54.9E" />
+<dungeon id="01FE" name="Small Empyrean Vault" coords="80.4N, 74W" />
+<dungeon id="022C" name="Oubliette" coords="Gem Portal" />
+<dungeon id="0272" name="Blackmire 4, Dungeon 1: Entrance" coords="38.1S, 47.4W" />
+<dungeon id="0273" name="Lesser Haven of Kivik Lir" coords="?" />
+<dungeon id="0274" name="Haven of Kivik Lir" coords="?" />
+<dungeon id="0275" name="Cragstone Reinforcements Tower" coords="" />
+<dungeon id="0276" name="Blackmire 4, Dungeon 4: Trials of Kivik Lir" coords="From BM4D3 or 5" />
+<dungeon id="0277" name="Blackmire 4, Dungeon 7: Gallery of Kivik Lir" coords="From BM4 D6" />
+<dungeon id="0278" name="Burun Fortress: Central Mound" coords="25.5S, 46.4E" />
+<dungeon id="0279" name="Burun Fortress: SW Mound" coords="25.5S, 46.4E" />
+<dungeon id="027A" name="Burun Fortress: NE Mound" coords="25.5S, 46.4E" />
+<dungeon id="027B" name="Burun Fortress: NW Mound" coords="25.5S, 46.4E" />
+<dungeon id="027C" name="Ancient Empyrean Grotto" coords="52.7N, 73.1W" />
+<dungeon id="027D" name="Lair of Eviscerators" coords="53.6N, 76.6W" />
+<dungeon id="027E" name="Martinate Holding" coords="59.5N, 77W" />
+<dungeon id="027F" name="East Fork Dam Hive" coords="48.5N, 76.4W" />
+<dungeon id="0280" name="Burun Fortress: SE Mound" coords="25.5S, 46.4E" />
+<dungeon id="0282" name="Olthoi Soldier Nest" coords="45.2N, 76.3W" />
+<dungeon id="0283" name="The Dark Lair" coords="43.8N, 68.4W" />
+<dungeon id="0284" name="Abandoned Tumerok Site" coords="42N, 82.2W" />
+<dungeon id="0285" name="Wasteland Hive" coords="50.8N, 79.1W" />
+<dungeon id="0286" name="Tumerok Cave" coords="43.7N, 83.9W" />
+<dungeon id="0287" name="Aun Papileona's Shrine" coords="41.7N, 78.3W" />
+<dungeon id="0288" name="Royal Hive" coords="From Mt Elyiri Hive" />
+<dungeon id="0289" name="Tiny Hive" coords="Marescent Plateau-Rnd" />
+<dungeon id="028A" name="Small Hive" coords="Marescent Plateau-Rnd" />
+<dungeon id="028B" name="Simple Hive" coords="Marescent Plateau-Rnd" />
+<dungeon id="028C" name="Shallow Hive" coords="Marescent Plateau-Rnd" />
+<dungeon id="028D" name="New Hive" coords="Marescent Plateau-Rnd" />
+<dungeon id="028E" name="Palenqual's Cavern" coords="48.9N, 72.3W" />
+<dungeon id="028F" name="Swamp Gardens" coords="22.5S, 45.9E" />
+<dungeon id="0290" name="Stable Rift" coords="8N, 50.4E" />
+<dungeon id="0291" name="Singularity Bore" coords="64.1S, 63.8W" />
+<dungeon id="0292" name="Tumerok Cavern" coords="44N, 87W" />
+<dungeon id="0293" name="Habitat" coords="Portal Gem" />
+<dungeon id="0294" name="Land Bridge Staging Complex: Director's Private Chamber" coords="86S, 2.5W" />
+<dungeon id="0295" name="Inculcation Cells" coords="68.7S,62.6W" />
+<dungeon id="0296" name="South Quiddity Dungeon" coords="Random" />
+<dungeon id="0297" name="North Quiddity Dungeon" coords="Random" />
+<dungeon id="0298" name="Land Bridge Staging Complex: Main" coords="86S, 2.5W" />
+<dungeon id="0299" name="Larry's Garden" coords="From Larry" />
+<dungeon id="029A" name="Gredaline Consulate : Envoy's Chamber" coords="61.6S, 29.3E" />
+<dungeon id="029B" name="Gredaline Consulate : Main" coords="61.6S, 29.3E" />
+<dungeon id="029C" name="Linvak Tukal Entryway" coords="76.7S, 28E" />
+<dungeon id="029D" name="Mnenosyne Collection Site" coords="2.5S, 16.4E" />
+<dungeon id="029E" name="Aerbbax Laboratory : Main" coords="10.1S, 8.1E" />
+<dungeon id="029F" name="Aerbbax Laboratory : Haven" coords="10.1S, 8.1E" />
+<dungeon id="02A0" name="Sand Shallow" coords="11.5S, 0.7E" />
+<dungeon id="02A1" name="Panopticon" coords="59.1S, 84W" />
+<dungeon id="02A3" name="Moss Chamber NPC room" coords="From Moss Chamber" />
+<dungeon id="02A4" name="South Tumerok Vanguard Outpost" coords="46S, 14.2E" />
+<dungeon id="02A5" name="North Tumerok Vanguard Outpost" coords="7.5S, 0.1E" />
+<dungeon id="02A6" name="Lyceum Training Grounds" coords="From Lyceum" />
+<dungeon id="02A7" name="Lyceum Training Grounds" coords="From Lyceum" />
+<dungeon id="02A8" name="Lyceum Training Grounds" coords="From Lyceum" />
+<dungeon id="02A9" name="Hieromancer's Hall" coords="4.4S, 82.8W" />
+<dungeon id="02AA" name="Desert March" coords="22.6N, 28.8W" />
+<dungeon id="02AB" name="Beyond the Mines of Despair" coords="75.4S, 57.3E" />
+<dungeon id="02AC" name="Empyrean Cloister: Lower/Upper (Mausoleum)" coords="23.4S, 5.8E" />
+<dungeon id="02AD" name="Empyrean Cloister: Entrance" coords="23.4S, 5.8E" />
+<dungeon id="02AE" name="Chakron Flux: Entrance" coords="52.8S, 62.7W" />
+<dungeon id="02AF" name="Chakron Flux: Lower  Upper" coords="From Chakron Flux" />
+<dungeon id="02B0" name="Sepulcher of the Hopeslayer" coords="Portal Gem" />
+<dungeon id="02B1" name="Shade Stronghold" coords="73.5N, 0.3W" />
+<dungeon id="02B2" name="Heart of Darkness" coords="73.5N, 0.2W" />
+<dungeon id="02B3" name="Moars Laboratory" coords="68.3S, 94.4E" />
+<dungeon id="02B4" name="A Mosswart Hideout" coords="72.7S, 90.7E" />
+<dungeon id="02B5" name="Moarsmen Spawning Grounds" coords="69.5S, 96.5E" />
+<dungeon id="02B6" name="Idol Spawning Grounds" coords="72.3S, 87.5E" />
+<dungeon id="02B7" name="Catacombs of Ithaenc" coords="82.4S, 93.4E" />
+<dungeon id="02B8" name="Rumuba's Hidey Hole" coords="75.9S, 89.2E" />
+<dungeon id="02B9" name="Moist Hovel" coords="73N, 63W" />
+<dungeon id="02BA" name="Moars" coords="70.2S, 93.1E" />
+<dungeon id="02BB" name="Jungle Shadows" coords="69.3S, 94.5E" />
+<dungeon id="02BC" name="Mosswart Nest" coords="77.7S, 87.9E" />
+<dungeon id="02BD" name="Small Ruin" coords="70.2S, 91.1E" />
+<dungeon id="02BE" name="Small Temple" coords="69.2S, 93.7E" />
+<dungeon id="02BF" name="Small Temple" coords="75S, 97.5E" />
+<dungeon id="02C0" name="Small Temple" coords="81.9S, 97E" />
+<dungeon id="02C1" name="Mud Cave" coords="73.1S, 81.3E" />
+<dungeon id="02C2" name="Moarsman Muck" coords="77S, 90.9E" />
+<dungeon id="02C3" name="Slithis Pit" coords="70.2S, 94.4E" />
+<dungeon id="02C4" name="Moarsmen Hideout" coords="69.9S, 89.9E" />
+<dungeon id="02C5" name="Treacherous Tunnels" coords="75S, 90.3E" />
+<dungeon id="02C6" name="Lightless Tunnels" coords="41.9S, 16.2E" />
+<dungeon id="02C7" name="Tumideon Fortress" coords="56S, 60.7W" />
+<dungeon id="02C8" name="Banderling Conquest Dungeon" coords="29S, 50.4E" />
+<dungeon id="02C9" name="Sotiris Dungeon" coords="68S, 69.2W" />
+<dungeon id="02CA" name="Mosswart Maze" coords="25.2S, 19.4E" />
+<dungeon id="02CB" name="The Floating City (bar)" coords="Random" />
+<dungeon id="02CC" name="The Floating City (museum)" coords="Random" />
+<dungeon id="02CD" name="The Floating City (Tunnels)" coords="Random" />
+<dungeon id="02CE" name="The Floating City (construction area)" coords="Random" />
+<dungeon id="02CF" name="The Floating City (skyway)" coords="Random" />
+<dungeon id="02D0" name="The Floating City (lost chamber)" coords="Random" />
+<dungeon id="02D1" name="The Floating City (banderling area)" coords="Random" />
+<dungeon id="02D2" name="Uninhabited Area" coords="41.9S, 16.2E" />
+<dungeon id="02D4" name="Abhorrent Vault" coords="88.5N, 50.4W" />
+<dungeon id="02D5" name="Waterfall Cave" coords="84N, 75.4W" />
+<dungeon id="02D6" name="Hidden City" coords="94.4N, 70W" />
+<dungeon id="02D7" name="Shendolain" coords="Portal Gem" />
+<dungeon id="02D8" name="King 6 Browerk - Part 5" coords="From K6P4" />
+<dungeon id="02D9" name="King 3 Broodu - Part 3" coords="From K3P2" />
+<dungeon id="02DA" name="Fenmalain : Chamber" coords="46.9S, 55.2E" />
+<dungeon id="02DB" name="Fenmalain : Vestibule" coords="46.9S, 55.2E" />
+<dungeon id="02DC" name="Caulnalain Vestibule" coords="68.5N, 5.5E" />
+<dungeon id="02DD" name="Penguin den" coords="71.7N, 60.4W" />
+<dungeon id="02DE" name="Ruschk Iceberg" coords="" />
+<dungeon id="02DF" name="Caulnalain Chamber" coords="Portal gem" />
+<dungeon id="02E0" name="Shendolain Vestibule" coords="53.8S, 59.6W" />
+<dungeon id="02E1" name="The Golem Sanctum" coords="Random" />
+<dungeon id="02E2" name="Arena" coords="18.5S, 3.7E" />
+<dungeon id="02E3" name="Arena" coords="17.9S, 3.9E" />
+<dungeon id="02E4" name="Humid Hovel" coords="73.6N, 59.2W" />
+<dungeon id="02E5" name="Krau Li's Labyrinth" coords="35.2S, 23.8E" />
+<dungeon id="02E6" name="Catacombs of the Forgotten" coords="17.3N, 32.8E" />
+<dungeon id="02E7" name="Lugian Excavations" coords="77S, 64.3E" />
+<dungeon id="02E8" name="Lugian Quarry" coords="64.4S, 55.5E" />
+<dungeon id="02E9" name="Lugian Mines" coords="73.9S, 39E" />
+<dungeon id="02EA" name="Ishaq's Cellar" coords="66S, 86.6W" />
+<dungeon id="02EB" name="Viamontian Torture Chamber" coords="69.6N, 62.6W" />
+<dungeon id="02EC" name="Coral Tunnels" coords="84.1N, 46.9N<br>84.2N, 46E" />
+<dungeon id="02ED" name="Aerlinthe Reservoir (Lower)" coords="From Reservoir" />
+<dungeon id="02EE" name="Aerlinthe Reservoir" coords="85.3N, 43.5E" />
+<dungeon id="02EF" name="Soul Fearing Vestry" coords="88.3S, 10.7W" />
+<dungeon id="02F0" name="Hills Citadel" coords="56.6S, 66.9E" />
+<dungeon id="02F1" name="Ridge Citadel" coords="70.2S, 24.2E" />
+<dungeon id="02F2" name="Wilderness Citadel" coords="67.9S, 62.5E" />
+<dungeon id="02F3" name="Hall of Metos" coords="4.4S, 0.6W" />
+<dungeon id="02F4" name="Hall of Metos" coords="56S, 89.2W" />
+<dungeon id="02F5" name="Hall of Metos" coords="61.3S, 46.7W" />
+<dungeon id="02F6" name="Sclavus Cathedral (North Ayan Baqur)" coords="33.5S, 80.1W" />
+<dungeon id="02F7" name="Sclavus Cathedral (West Dire.)" coords="17.9S, 89.6W" />
+<dungeon id="02F8" name="Burun Cathedral (prev. Sclavus Cathedral)" coords="42.3S, 52.6W" />
+<dungeon id="02FB" name="Olthoi Horde Nest (Colier)" coords="55.8N, 43.5E" />
+<dungeon id="02FC" name="Olthoi Horde Nest (Mt Retreat)" coords="48.9N, 12.9W" />
+<dungeon id="02FD" name="Olthoi Horde Nest (Bandit Castle)" coords="64.3N, 52.8E" />
+<dungeon id="02FE" name="Frozen Library" coords="90.7N, 56.4W" />
+<dungeon id="0363" name="Holtburg South Training Academy" coords="" />
+<dungeon id="0364" name="Holtburg West Training Academy" coords="" />
+<dungeon id="0365" name="Shoushi Southeast Training Academy" coords="" />
+<dungeon id="0366" name="Shoushi West Training Academy" coords="" />
+<dungeon id="0367" name="Yaraq East Training Academy" coords="" />
+<dungeon id="0368" name="Yaraq North Training Academy" coords="" />
+<dungeon id="039B" name="Steaming Hovel" coords="73.1N, 65.6W" />
+<dungeon id="039C" name="Hollow Lair near Lytelthorpe" coords="2.2S, 50.7E" />
+<dungeon id="039D" name="Ravenous Vault" coords="92.8N, 48.9W" />
+<dungeon id="039E" name="Seat of the New Singularity" coords="summoned by NPC Ecorto" />
+<dungeon id="039F" name="Singular Obsidian Repository" coords="55.9S, 64.8W" />
+<dungeon id="03A0" name="Singular Chorizite Repository" coords="77.3S, 51.6E" />
+<dungeon id="03A1" name="Singular Pyreal Repository" coords="4.2S, 8.9E" />
+<dungeon id="03A2" name="Southern Infiltrator Keep" coords="52.3S, 24.9E" />
+<dungeon id="03A3" name="Northern Infiltrator Keep" coords="15.4N, 5E" />
+<dungeon id="03A4" name="The Asteliary" coords="10.2S, 17.5E" />
+<dungeon id="03A5" name="Undead Temple" coords="90.9N, 43.2W" />
+<dungeon id="03A6" name="North Fork Dam Hive" coords="51.4N, 76W" />
+<dungeon id="03A7" name="Mount Elyrii Hive" coords="48.5N, 81.7W" />
+<dungeon id="03FE" name="Mossy Cave" coords="34.1S, 74.9E" />
+<dungeon id="1568" name="Direlands Subway" coords="18.6S, 84.4W" />
+<dungeon id="1936" name="Archive" coords="93.9N, 90.4W" />
+<dungeon id="1A8E" name="Shadow Lugian Stronghold" coords="12.2N, 81.1W" />
+<dungeon id="23B6" name="Rebel Hideout" coords="43.9N, 73.9W" />
+<dungeon id="40D8" name="Cave of the Escaped Thief" coords="71.1N, 50.2W" />
+<dungeon id="5269" name="Wedding Trial Dungeon" coords="32.8N, 55.3E" />
+<dungeon id="526A" name="Portal Space 3: Empyrean + Lilitha's Room + Final Room" coords="From Second Section" />
+<dungeon id="526B" name="Portal Space 2: Second Section" coords="From First section" />
+<dungeon id="526C" name="Portal Space 1: First section" coords="82.7N, 21.1E" />
+<dungeon id="526D" name="Empyrean Acid Propylaeum : Lower  Upper" coords="31.6S, 74.2W" />
+<dungeon id="526E" name="Empyrean Acid Propylaeum : Entrance" coords="31.6S, 74.2W" />
+<dungeon id="526F" name="Empyrean Fire Propylaeum : Lower  Upper" coords="73.5N, 2.6W" />
+<dungeon id="5270" name="Empyrean Fire Propylaeum : Entrance" coords="73.5N, 2.6W" />
+<dungeon id="5271" name="Empyrean Ice Propylaeum : Lower  Upper" coords="53.2N, 62.5E" />
+<dungeon id="5272" name="Empyrean Ice Propylaeum : Entrance" coords="53.2N, 62.5E" />
+<dungeon id="5273" name="Empyrean Lightning Propylaeum : Lower  Upper" coords="87.1S, 9.6E" />
+<dungeon id="5274" name="Empyrean Lightning Propylaeum : Entrance" coords="87.1S, 9.6E" />
+<dungeon id="5275" name="Farmer's Basement" coords="37.4S, 75.5E" />
+<dungeon id="5276" name="Hall of Hollows" coords="24.9N, 37.7E" />
+<dungeon id="5360" name="Alvan Court" coords="" />
+<dungeon id="5361" name="Caerna Dwellings" coords="" />
+<dungeon id="5362" name="Illsin Veranda" coords="" />
+<dungeon id="5363" name="Marin Court" coords="" />
+<dungeon id="5364" name="Ruadnar Court" coords="" />
+<dungeon id="5365" name="Senmai Court" coords="" />
+<dungeon id="5366" name="Sigil Veranda" coords="" />
+<dungeon id="5367" name="Sorveya Court" coords="" />
+<dungeon id="5368" name="Sylvan Dwellings" coords="" />
+<dungeon id="5369" name="Treyval Veranda" coords="" />
+<dungeon id="536A" name="Hidden Dungeon" coords="21.3N, 53.9E" />
+<dungeon id="536B" name="Convergent Median" coords="87S, 40.3W" />
+<dungeon id="536C" name="Malignent Tabernacle" coords="23.2S, 46W" />
+<dungeon id="536D" name="Nuhmudira's Dungeon" coords="4.1S, 35.9E" />
+<dungeon id="536E" name="Venemous Nidus" coords="13.1S, 91.8W" />
+<dungeon id="5456" name="Grievver Caves" coords="75.9N, 19.1W" />
+<dungeon id="5457" name="Colossus Foundry" coords="Under Bronze Statues" />
+<dungeon id="5458" name="Mammet Foundry" coords="Under Bronze Statues" />
+<dungeon id="5459" name="Effigy Foundry" coords="Under Bronze Statues" />
+<dungeon id="545A" name="Mannikin Foundry" coords="Under Bronze Statues" />
+<dungeon id="545B" name="Arcanum Research Facility" coords="5.8N, 6.3E" />
+<dungeon id="545C" name="Arcanum Storehouse : Entry" coords="54.8S, 74.4E" />
+<dungeon id="545D" name="Callous Heart: High Grounds" coords="Portal Gem" />
+<dungeon id="545E" name="Fathomless Chasm" coords="36.9S, 63.4E" />
+<dungeon id="545F" name="Fathomless Chasm Clough" coords="36.9S, 63.4E" />
+<dungeon id="5460" name="Fathomless Chasm Descent" coords="36.9S, 63.4E" />
+<dungeon id="5462" name="Gelidite Library: Oubliette" coords="69.3N, 17.2W" />
+<dungeon id="5463" name="Gelidite Library: Labyrinth" coords="69.3N, 17.2W" />
+<dungeon id="5464" name="Gelidite Library: Entrance" coords="69.3N, 17.2W" />
+<dungeon id="5465" name="Sanctum Residential Halls" coords="" />
+<dungeon id="5643" name="Gromnie Clan Training Camp" coords="16S, 70E" />
+<dungeon id="5644" name="Mask Clan Training Camp" coords="16S, 75E" />
+<dungeon id="5645" name="Abandoned Armory" coords="83.6S, 14.7W" />
+<dungeon id="5646" name="An Archive" coords="63.5S, 36.8E" />
+<dungeon id="5647" name="Tower Base" coords="34.7S, 33.6E" />
+<dungeon id="5648" name="Misty Mine" coords="From Warehouse" />
+<dungeon id="5649" name="Dark Tree Crystal Mine" coords="24.8N, 31.3W" />
+<dungeon id="564A" name="Spirit Cell" coords="26.5N, 28.5W" />
+<dungeon id="564B" name="Crystal Mine Extreem" coords="Portal" />
+<dungeon id="564C" name="Crystal Mine High" coords="Portal" />
+<dungeon id="564D" name="Crystal Mine Mid" coords="Portal" />
+<dungeon id="564E" name="Crystal Mine Low" coords="Portal" />
+<dungeon id="564F" name="Crystal Mine New Isparians" coords="Portal" />
+<dungeon id="5650" name="Victory Residential Halls" coords="" />
+<dungeon id="5651" name="Frest Greelving's Dungeon" coords="6.4N, 43.9E" />
+<dungeon id="5653" name="Citadel Library" coords="From Gaerlan's Citadel" />
+<dungeon id="5654" name="Gaerlan's Inner Sanctum" coords="From Citadel Library" />
+<dungeon id="5656" name="Haven Residential Halls" coords="" />
+<dungeon id="565E" name="Oriel Residential Halls" coords="" />
+<dungeon id="565F" name="Elemental Sanctum" coords="12.6S, 46.6E" />
+<dungeon id="5660" name="Martine's Retreat" coords="10.6N, 58.3E" />
+<dungeon id="5661" name="Atrium Residential Halls" coords="" />
+<dungeon id="5743" name="Frost Guardian Lair" coords="52.8N, 62.4E" />
+<dungeon id="5744" name="Proving Grounds Low" coords="From Lightning Ziggurat" />
+<dungeon id="5745" name="Icy Demise" coords="From Citadel Library" />
+<dungeon id="5746" name="Lightning Ziggurat" coords="57.2N, 47.8E" />
+<dungeon id="5748" name="Tusker Burrow" coords="2N, 97.9E" />
+<dungeon id="5749" name="Tusker Lodge" coords="0.2N, 98.1E" />
+<dungeon id="574A" name="Warehouse" coords="Summoned by NPC" />
+<dungeon id="574B" name="Warehouse (ransacked)" coords="From W. Annex Mine" />
+<dungeon id="574C" name="Warehouse Annex Mine" coords="From Warehouse" />
+<dungeon id="574D" name="Deeper Catacombs (BDC)" coords="From Lower Corridor" />
+<dungeon id="574E" name="Deeper Catacombs (OHN)" coords="From OHN" />
+<dungeon id="574F" name="Deeper Catacombs (OHN Mt Retreat)" coords="From OHN MtR" />
+<dungeon id="5750" name="Deeper Catacombs (OHN Colier)" coords="From OHN (Colier)" />
+<dungeon id="5751" name="Deeper Catacombs (Crater Lair)" coords="From Crater Lair" />
+<dungeon id="5752" name="Deeper Catacombs (Olthoi Tunnels)" coords="From Olthoi Tun." />
+<dungeon id="5753" name="Deeper Catacombs (LoD)" coords="From LoD" />
+<dungeon id="5772" name="Olthoi Brood Hive" coords="44.2N, 66.2E" />
+<dungeon id="5773" name="Olthoi Brood Hive" coords="51.2N, 48.2E" />
+<dungeon id="5774" name="Secret Putiputi Place : part 1" coords="46.3N, 82.1W" />
+<dungeon id="5775" name="Secret Putiputi Place : part 3" coords="From part 2" />
+<dungeon id="5776" name="Secret Putiputi Place : part 4" coords="From part 3" />
+<dungeon id="5777" name="Falcon Clan Training Camp" coords="2N, 75E" />
+<dungeon id="5778" name="Serpent Clan Training Ground" coords="1S, 70E" />
+<dungeon id="5779" name="Shreth Clan Training Camp" coords="5S, 68E" />
+<dungeon id="577A" name="Reedshark Clan Training Camp" coords="13S, 68E" />
+<dungeon id="5843" name="Fire Guardian Lair" coords="73.5N, 3.2W" />
+<dungeon id="5844" name="Proving Ground Mid" coords="From Acid Ziggurat" />
+<dungeon id="5845" name="Fire Aspect Dungeon" coords="From Citadel Library" />
+<dungeon id="5846" name="Acid Ziggurat" coords="57.2N, 47.8E" />
+<dungeon id="5848" name="Tusker Freehold" coords="1.6S, 95.5E" />
+<dungeon id="5849" name="Tusker Assault" coords="3.9S, 84.2E" />
+<dungeon id="584A" name="Tusker Shrine" coords="" />
+<dungeon id="584B" name="Olthoi Brood Hive" coords="64.5N, 56.2E" />
+<dungeon id="584C" name="Olthoi Brood Hive" coords="57.4N, 67.4E" />
+<dungeon id="5943" name="Acid Guardian Lair" coords="30.7S, 74.3W" />
+<dungeon id="5944" name="Proving Grounds High" coords="From Fire Ziggurat" />
+<dungeon id="5945" name="Acid Aspect Dungeon" coords="From Citadel Library" />
+<dungeon id="5946" name="Fire Ziggurat" coords="57.2N, 47.8E" />
+<dungeon id="5948" name="Tusker Armory" coords="0.1N, 90E" />
+<dungeon id="5949" name="Tusker Lacuna" coords="9.9S, 90.7E" />
+<dungeon id="594A" name="Chapel of Mowen" coords="3.1N, 93.6E" />
+<dungeon id="594B" name="Aerbbax's Holding" coords="62.4S, 71.1W" />
+<dungeon id="594C" name="Gerent's Compound" coords="87.3S, 17.5W" />
+<dungeon id="594D" name="Ancient Temple" coords="33S, 88W" />
+<dungeon id="5A43" name="Lightning Guardian Lair" coords="86.7S, 10.4E" />
+<dungeon id="5A44" name="Proving Grounds Extreme" coords="From Frost Ziggurat" />
+<dungeon id="5A45" name="Electric Destruction" coords="From Citadel Library" />
+<dungeon id="5A46" name="Frost Ziggurat" coords="57.2N, 47.8E" />
+<dungeon id="5A48" name="Tusker Barracks" coords="0.3S, 90E" />
+<dungeon id="5A49" name="Tusker Honeycombs" coords="1.3S, 86.9E" />
+<dungeon id="5A4A" name="Tusker Pits" coords="1.3N, 91.8E" />
+<dungeon id="5B42" name="Virindi Complex" coords="73.8N, 25.1E" />
+<dungeon id="5B43" name="Olthoi Arcade (North)" coords="39N, 81.2W" />
+<dungeon id="5B44" name="Olthoi Arcade Central" coords="From Olthoi Arcade" />
+<dungeon id="5B46" name="Tusker Cave" coords="0.4N, 97.4E" />
+<dungeon id="5B47" name="Tusker Habitat" coords="0.5S, 95.9E" />
+<dungeon id="5B48" name="Tusker Holding" coords="3.5S, 85.3E" />
+<dungeon id="5B49" name="Plated Rifts" coords="1S, 85.8E" />
+<dungeon id="5B4A" name="Tusker Quarters" coords="2.3S, 95.6E" />
+<dungeon id="5C43" name="Tusker Cavern" coords="1N, 96.9E" />
+<dungeon id="5C44" name="Tusker Encampments" coords="4S, 93.5E" />
+<dungeon id="5C45" name="Tusker Abode" coords="3.2S, 94.9E" />
+<dungeon id="5C46" name="Tusker Gauntlet" coords="9.8S, 86.5E" />
+<dungeon id="5C47" name="Tusker Grotto" coords="0.9S, 98.4E" />
+<dungeon id="5C48" name="Rampage Bluff" coords="1.3S, 84.9E" />
+<dungeon id="5C49" name="Tusker Retreat" coords="0.7S, 97.9E" />
+<dungeon id="5C4A" name="Tusker Temple" coords="0.7N, 68.1W" />
+<dungeon id="5C4C" name="Blackmire 3, dungeon 1: Entrance" coords="51.4S, 67.9W" />
+<dungeon id="5C4E" name="Olthoi Brood Hive" coords="?" />
+<dungeon id="5C4F" name="Blackmire 3, dungeon 2: Well of Tears" coords="From Blackmire3" />
+<dungeon id="5D43" name="Tusker Temple" coords="59.8N, 28.4E" />
+<dungeon id="5D44" name="Tusker Temple" coords="10.5S, 65.6E" />
+<dungeon id="5D45" name="Tusker Tunnels" coords="0.3N, 86.4E" />
+<dungeon id="5D46" name="Vengeance Caverns" coords="1.9N, 93.7E" />
+<dungeon id="5D47" name="Temple of Enlightment" coords="84.5S, 0E" />
+<dungeon id="5D48" name="Temple of Forgetfulness" coords="88.8N, 0E" />
+<dungeon id="5D49" name="Olthoi Arcade (South)" coords="From Olthoi Arcade Central" />
+<dungeon id="5D4A" name="Olthoi Chasm" coords="0.7N, 44.7E" />
+<dungeon id="5D4B" name="Shallow Olthoi Chasm" coords="From Olthoi Chasm" />
+<dungeon id="5D4C" name="Deep Olthoi Chasm" coords="From Olthoi Chasms" />
+<dungeon id="5D4D" name="Cavernous Olthoi Chasm" coords="From Olthoi Chasms" />
+<dungeon id="5D4E" name="Abyssal Olthoi Chasm" coords="From Olthoi Chasms" />
+<dungeon id="5E44" name="Tusker Food Storage" coords="From Tusker Warrior's Lair" />
+<dungeon id="5E45" name="Black Death Catacombs (BDC)" coords="59.9N, 71.2E" />
+<dungeon id="5E46" name="Catacombs of Opposition" coords="From Deeper Catacombs" />
+<dungeon id="5E47" name="Asheron's Sanctum" coords="21.2N, 69.1E" />
+<dungeon id="5E48" name="Olthoi Brood Hive" coords="60.2N, 61.2E" />
+<dungeon id="5E49" name="Olthoi Brood Hive" coords="66.5N, 70.6E" />
+<dungeon id="5E4A" name="Olthoi Brood Hive" coords="51.8N, 59.8E" />
+<dungeon id="5E4B" name="Olthoi Brood Hive" coords="71.2N, 60.3E" />
+<dungeon id="5E4C" name="Bandit Hideout (Entrance)" coords="Portal Gem" />
+<dungeon id="5E4D" name="Bandit Hideout (prison)" coords="Portal Gem" />
+<dungeon id="5F43" name="Legend Of The Tusker King" coords="From Tusker Food Storage" />
+<dungeon id="5F44" name="Throne Of The Tusker King" coords="From Legend Tusker King" />
+<dungeon id="5F45" name="Fir Tree" coords="80N, 45.6W" />
+<dungeon id="5F46" name="Heart of Innocence" coords="around 34N,39E" />
+<dungeon id="5F47" name="Elemental Caverns" coords="82.6S, 47.5W" />
+<dungeon id="5F48" name="Hidden Cavern" coords="37.9S, 65.5W" />
+<dungeon id="5F4B" name="Blackmire 3, dungeon 3: Jumping Dungeon" coords="From Blackmire3" />
+<dungeon id="5F4E" name="Blackmire 3, dungeon 4: The Sewer" coords="From Blackmire3" />
+<dungeon id="5F51" name="Blackmire 3, dungeon 5: Patriarch Zixki" coords="From Blackmire3" />
+<dungeon id="6043" name="Tusker Warrior's Lair" coords="From Behind Waterfall" />
+<dungeon id="6044" name="Behind the Waterfall" coords="8.7S, 85.7E" />
+<dungeon id="6045" name="Caul Asylum" coords="94.7S, 95.5W" />
+<dungeon id="6046" name="Caul Athenaeum" coords="From Caul Asylum" />
+<dungeon id="6047" name="Caul Sanitorium" coords="From Caul Athenaeum" />
+<dungeon id="6048" name="Aerbax's Antechamber" coords="From Caul Sanitorium" />
+<dungeon id="6049" name="Renegade Garrison" coords="44.3N, 51.8E" />
+<dungeon id="604A" name="Sclavus Temple" coords="82.5S, 75W" />
+<dungeon id="6143" name="Ulgrim's Basement" coords="94.8S, 9.7W" />
+<dungeon id="6144" name="Lower Corridor" coords="From BDC" />
+<dungeon id="6145" name="Matron Hive West" coords="19.3N, 72.6E" />
+<dungeon id="6146" name="Matron Hive East" coords="18.4N, 69.3E" />
+<dungeon id="6147" name="Mountain Citadel" coords="5.4N, 71.8W" />
+<dungeon id="6148" name="Desert Citadel" coords="84.5S, 59.7W" />
+<dungeon id="6149" name="Crystal Mine" coords="49.3S, 17.9E" />
+<dungeon id="614A" name="Lair of the Ancient Queen" coords="13.2N, 0.8E" />
+<dungeon id="614B" name="Drudge Fight" coords="Portal Gem" />
+<dungeon id="614C" name="Resting Place" coords="Portal Gem" />
+<dungeon id="6243" name="Marketplace" coords="/marketplace" />
+<dungeon id="6244" name="Liazk Itzi's Temple (Part 2  4)" coords="From Itzi Temple" />
+<dungeon id="6245" name="Liazk Itzi" coords="?" />
+<dungeon id="6246" name="Liazk Itzi's Temple (part 5  6)" coords="From Itzi Temple" />
+<dungeon id="6247" name="Burun Burrow" coords="27.5S, 53.9E" />
+<dungeon id="6248" name="Renegade Fortress" coords="29.5S, 65.5W" />
+<dungeon id="6249" name="Renegade Stronghold" coords="2.4S, 63.7E" />
+<dungeon id="624A" name="Burun Cavern" coords="12S, 50E" />
+<dungeon id="6343" name="Knorr: Barracks" coords="From Seat of Knorr" />
+<dungeon id="6344" name="Knorr Trials" coords="Portal Gem" />
+<dungeon id="6345" name="Subterannean Farm" coords="From Martine's Retreat" />
+<dungeon id="6346" name="Matron Hive South" coords="15.8N, 73.5E" />
+<dungeon id="6347" name="Matron Hive North" coords="23.4N, 69.4E" />
+<dungeon id="6348" name="Caliginous Bethel" coords="Monster Kill" />
+<dungeon id="6349" name="Oubliette" coords="Portal Gem" />
+<dungeon id="634A" name="Lair of Homunculus" coords="Portal Gem" />
+<dungeon id="634B" name="Sunken Mere" coords="Portal gem" />
+<dungeon id="634C" name="Tainted Grotto" coords="17.8S, 50.6E" />
+<dungeon id="6443" name="Knorr: Research Chambers" coords="From Seat of Knorr" />
+<dungeon id="6444" name="Seat of Knorr" coords="From Courtyard of Knorr" />
+<dungeon id="6445" name="Knorr: Forge" coords="From Seat of Knorr" />
+<dungeon id="6446" name="Tunnels to the Harbinger (Vincadi)" coords="12.6S, 46.7E" />
+<dungeon id="6447" name="Tunnels to the Harbinger (Issk)" coords="12.9S, 46.5E" />
+<dungeon id="6448" name="Mount Ingot" coords="67.8S, 25.5E" />
+<dungeon id="6449" name="Dragon's Power" coords="82.3S, 41.4E" />
+<dungeon id="644A" name="Decrepit Tower" coords="25.5N, 14.6W" />
+<dungeon id="6545" name="Blackmire Temple" coords="21.7S, 47.7E" />
+<dungeon id="6546" name="Hall of the Arbiter" coords="From Hall of the Temple Guardians" />
+<dungeon id="6547" name="Hall of the Temple Guardians" coords="From Blackmire Temple" />
+<dungeon id="6548" name="Orphanage" coords="Random on Caul" />
+<dungeon id="6549" name="A Renegade Stronghold" coords="71.4N, 28.6W" />
+<dungeon id="654A" name="A Renegade Stronghold" coords="17S, 5.9E" />
+<dungeon id="654B" name="A Renegade Stronghold" coords="34.4S, 64.8E" />
+<dungeon id="6678" name="Olthoi Warrior Nest" coords="46.9N, 81.2W" />
+<dungeon id="6679" name="Crumbling Empyrean Mansion" coords="46.8N, 67.8W" />
+<dungeon id="667A" name="Mutilator Tunnels" coords="52.8N, 78.1W" />
+<dungeon id="7200" name="Winthur Gate" coords="" />
+<dungeon id="7204" name="Sanamar Training Academy" coords="Sanamar" />
+<dungeon id="7300" name="Larkspur Gardens" coords="" />
+<dungeon id="7400" name="Mellas Court" coords="" />
+<dungeon id="7500" name="Vesper Gate" coords="" />
+<dungeon id="7600" name="Gajin Dwellings" coords="" />
+<dungeon id="7700" name="Valorya Gate" coords="" />
+<dungeon id="7800" name="Heartland Yard" coords="" />
+<dungeon id="7900" name="Ivory Gate" coords="" />
+<dungeon id="7A00" name="Alphus Court" coords="" />
+<dungeon id="7B00" name="Hasina Gardens" coords="" />
+<dungeon id="7C00" name="Sorac Gate" coords="" />
+<dungeon id="7D00" name="Maru Veranda" coords="" />
+<dungeon id="7E00" name="Forsythian Gardens" coords="" />
+<dungeon id="7F00" name="Vindalan Dwellings" coords="" />
+<dungeon id="8000" name="Syrah Dwellings" coords="" />
+<dungeon id="8100" name="Allain Court" coords="" />
+<dungeon id="8200" name="White Lotus Gate" coords="" />
+<dungeon id="8300" name="Autumn Moon Gardens" coords="" />
+<dungeon id="8400" name="Trellyn Gardens" coords="" />
+<dungeon id="8500" name="Endara Gate" coords="" />
+<dungeon id="8600" name="Celcynd Grotto" coords="" />
+<dungeon id="8700" name="Trothyr Hollow" coords="" />
+<dungeon id="8800" name="Jojii Gardens" coords="" />
+<dungeon id="8900" name="Cedraic Court" coords="" />
+<dungeon id="8A00" name="Ben Ten Lodge" coords="" />
+<dungeon id="8B00" name="Dulok Court" coords="" />
+<dungeon id="8C00" name="Crescent Moon Veranda" coords="" />
+<dungeon id="8D00" name="Jade Gate" coords="" />
+<dungeon id="8E00" name="Ispar Yard" coords="" />
+<dungeon id="8F00" name="Xao Wu Gardens" coords="" />
+<dungeon id="9000" name="Accord Veranda" coords="" />
+<dungeon id="9100" name="Candeth Court" coords="" />
+<dungeon id="9200" name="Celdiseth Court" coords="" />
+<dungeon id="9300" name="Hibiscus Gardens" coords="" />
+<dungeon id="934B" name="Xarabydun" coords="41.9S, 16.2E" />
+<dungeon id="9400" name="Hibiscus Gardens" coords="" />
+<dungeon id="9500" name="Meditation Gardens" coords="" />
+<dungeon id="9600" name="Setera Gardens" coords="" />
+<dungeon id="9700" name="Spirit Gate" coords="" />
+<dungeon id="9800" name="Triumphal Gardens" coords="" />
+<dungeon id="9900" name="Wilamil Court" coords="" />
+<dungeon id="D756" name="Rat King's Cave" coords="32.9S, 70.5E" />
+<dungeon id="F784" name="Tusker Emporium" coords="4.4N, 95.9E" />
+</Dungeons>
